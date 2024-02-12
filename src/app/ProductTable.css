@@ -1,5 +1,6 @@
 .table-container {
   overflow-x: auto;
+  font-size: small;
 }
 
 .table-scroll {
@@ -12,7 +13,7 @@ table {
 }
 
 th, td {
-  padding: 8px;
+  padding: 4px;
   text-align: left;
 }
 

@@ -4,7 +4,7 @@ function ProductTable() {
   
   return (
     <div className="table-container">
-      <h2>Amazon's Current Top 100 Bestselling Graphics Cards </h2>
+      <h3>Amazon's Current 100 Bestselling Graphics Cards </h3>
       <div className="table-scroll">
       <table>
         <thead>

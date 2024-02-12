@@ -1,11 +1,11 @@
 import { Inter } from "next/font/google";
-import "./globals.css";
+
 
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Graphics Card Prices (US)",
-  description: "Amazon's Current Top 100 Bestselling Graphics Cards",
+  description: "Amazon's Current 100 Bestselling Graphics Cards",
 };
 
 export default function RootLayout({ children }) {
